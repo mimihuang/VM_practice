@@ -2,7 +2,6 @@
 name = "simplevm"
 version = "0.1.0"
 edition = "2018"
-authors = ["Miryam improve Tarek's smallvm code."]
 #see Tarek original code here:https://github.com/tarekwiz/smallvm
 
 [dependencies]
